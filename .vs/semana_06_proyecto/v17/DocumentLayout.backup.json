@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CICLO IV\\EDWIN\\Git y Github\\S6\\semana6\\semana_06_proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{767F3C1E-F17D-47B2-AAA3-AB34BD15EE04}|semana_06_proyecto.csproj|e:\\ciclo iv\\edwin\\git y github\\s6\\semana6\\semana_06_proyecto\\controllers\\avalossaucedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767F3C1E-F17D-47B2-AAA3-AB34BD15EE04}|semana_06_proyecto.csproj|solutionrelative:controllers\\avalossaucedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvalosSaucedo.cs",
+              "DocumentMoniker": "E:\\CICLO IV\\EDWIN\\Git y Github\\S6\\semana6\\semana_06_proyecto\\Controllers\\AvalosSaucedo.cs",
+              "RelativeDocumentMoniker": "Controllers\\AvalosSaucedo.cs",
+              "ToolTip": "E:\\CICLO IV\\EDWIN\\Git y Github\\S6\\semana6\\semana_06_proyecto\\Controllers\\AvalosSaucedo.cs",
+              "RelativeToolTip": "Controllers\\AvalosSaucedo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:20:18.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
